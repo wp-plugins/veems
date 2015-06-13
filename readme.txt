@@ -1,4 +1,4 @@
-=== Veems Cast ===
+=== VeemsCast ===
 Contributors: veems, ramiy
 Tags: veems, veemscast, follow, followme
 Requires at least: 3.5
