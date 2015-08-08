@@ -2,7 +2,7 @@
 Contributors: veems, ramiy
 Tags: veems, veemscast, follow, followme
 Requires at least: 3.5
-Tested up to: 4.2
+Tested up to: 4.3
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -13,12 +13,12 @@ Add Veems support to your WordPress site
 
 Grow you audience, expand your network, access new users with every post - [GetVeems.com](http://getveems.com/).
 
-**About Veems**
+= About Veems =
 
 Veems drives instant messaging into high gear by supercharging them with Quick messaging technology backed by our conversation Kicker psychology.
 Jump start chats with Veems, Kickers and Quickers and enter a new world of instant messaging. Download now and start Veeming with friends!
 
-**Veems WordPress Plugin**
+= Veems WordPress Plugin =
 
 This plugin enables site owners to push content directly to veems users. Each time you publish a new post, new users will be exposed to your content and publications!
 
